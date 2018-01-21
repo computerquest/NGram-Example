@@ -11,4 +11,5 @@ public:
 	NGram(string souce);
 
 	void add(string to);
+	void add(string to, int value);
 };
