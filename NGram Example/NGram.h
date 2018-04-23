@@ -12,4 +12,6 @@ public:
 
 	void add(string to);
 	void add(string to, int value);
+
+	string getMax();
 };
